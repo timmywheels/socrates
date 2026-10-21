@@ -1,0 +1,9 @@
+{
+  "name": "socrates",
+  "version": "0.2.0",
+  "description": "A Socratic code reviewer that only asks questions, with a pane beside the chat to work through them",
+  "author": { "name": "Tim Wheeler" },
+  "license": "MIT",
+  "repository": "https://github.com/timmywheels/socrates",
+  "types": "./types/index.d.ts"
+}
